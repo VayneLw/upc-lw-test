@@ -15,7 +15,7 @@
 
     <properties>
         <groovy.version>2.4.11</groovy.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <collections4.version>4.1</collections4.version>
         <spring.version>4.3.21.RELEASE</spring.version>
     </properties>
